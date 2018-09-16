@@ -89,3 +89,5 @@ func trim(word: String, with: String){
 
 
 trim(word: "hello", with: "el")
+
+//test
